@@ -1,0 +1,603 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-38089.94235871355" y="-25447.646314553618" width="76179.8847174271" height="50560.40976551433"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="27" type="button" x="1.0284593630981944e-12" y="-167.44143179645377" r="0" s="91.69461328529984" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>831.5592802357703</w>
+        <h>552.1472779287384</h>
+      </size>
+    </object>
+    <object id="0" type="shape" x="-3682.526697118566" y="3117.6296900333205" r="0" s="54.979376564562486" class="poly4">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="29" type="button" x="-30576.63034452615" y="-11602.752669966403" r="0" s="18.263886622807544" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>796.9289827255278</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1" type="shape" x="-30855.75529634183" y="-11758.507188324984" r="0" s="26.788986732296692" class="poly3">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="3" type="shape" x="19786.25" y="-6527.15" r="0" s="23.181197553218688" class="poly4">
+      <style borderThickness="1"/>
+      <style borderThickness="1"/>
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="40" type="button" x="27696.69582278085" y="10758.251488883152" r="0" s="15.642378684060496" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>925.8785942492012</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="4" type="shape" x="27215.89500448292" y="10792.007631889466" r="0" s="21.653993363653615" class="poly4">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="33" type="button" x="-3555.8658197872014" y="-20529.349469760506" r="0" s="15.192597827330315" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>959.2105263157896</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="6" type="shape" x="-3866.1211156320765" y="-19799.026878701785" r="0" s="24.997543531430832" class="poly4">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="7" type="shape" x="2823.101611077568" y="-15008.327955164677" r="0" s="14.276706954631914" class="poly3">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="32" type="button" x="-16265.187216822838" y="-10512.771630870859" r="0" s="13.143596146670633" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>914.8288973384032</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="10" type="shape" x="-16397.423626169373" y="-10445.713228171775" r="0" s="22.47549276707159" class="poly4">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="28" type="button" x="-3721.377689713838" y="2939.638129574873" r="0" s="25.520363649527624" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>992.3076923076924</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11" type="text" x="-3740.0922269235894" y="-1208.0562792759083" r="0" s="50.87134264659378" class="head">
+      <height>30.996000000000002</height>
+      <width>334.83265748097324</width>
+      <p>
+        <text color="16777215"><![CDATA[HEADLESS Web Automation]]></text>
+      </p>
+    </object>
+    <object id="12" type="text" x="3668.333018856088" y="-275.07977551212406" r="0" s="21.902704969455197" class="head">
+      <height>30.996000000000002</height>
+      <width>-101.208</width>
+      <p>
+        <text color="16777215"><![CDATA[Deshdeep]]></text>
+      </p>
+    </object>
+    <object id="13" type="shape" x="-31704.879481966855" y="-15671.862130770576" r="0" s="4.688184030062096" class="poly4">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="31" type="button" x="-29590.86514301888" y="-15628.29837084433" r="0" s="2.070953068262701" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>896.7032967032967</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="14" type="shape" x="-29678.35630804867" y="-15550.131048930092" r="0" s="3.495565645158757" class="poly4">
+      <geom type="circle">
+        <r>193.11003245571428</r>
+      </geom>
+    </object>
+    <object id="15" type="text" x="-33785.96114479851" y="-12208.20402144525" r="0" s="30.8384296783123" class="head">
+      <height>30.996000000000002</height>
+      <width>-128.78400000000002</width>
+      <p>
+        <text color="16777215"><![CDATA[Motivation...]]></text>
+      </p>
+    </object>
+    <object id="30" type="button" x="-31707.313784446953" y="-15758.03917163856" r="0" s="2.3668035065859496" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>975</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="16" type="text" x="-31789.062608353564" y="-16322.519274151984" r="0" s="3.6212752256947396" class="head">
+      <height>61.992000000000004</height>
+      <width>243.96</width>
+      <p>
+        <text color="16777215"><![CDATA[What is Headless Browser?]]></text>
+      </p>
+    </object>
+    <object id="17" type="text" x="-29811.329424225532" y="-15914.936282829793" r="0" s="2.955165247608358" class="head">
+      <height>30.996000000000002</height>
+      <width>-240.264</width>
+      <p>
+        <text color="16777215"><![CDATA[DOS, brute-force attack]]></text>
+      </p>
+    </object>
+    <object id="7_187800558" type="image" x="-3579.567056867668" y="-22135.010893744864" r="0" s="6.139461953094727">
+      <source w="985" h="355">4294569887<url>4294569887.png</url></source>
+      <sourceUrl>PhantomJS.png</sourceUrl>
+    <resource><id>4294569887</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/d/d/02e9f2e2671458bcaff4023e242637d0c6ce4.png</url></resource></object>
+    <object id="19" type="text" x="-4330.504710081057" y="-23785.575643773955" r="0" s="23.64132198086682" class="head">
+      <height>30.996000000000002</height>
+      <width>-113.11200000000001</width>
+      <p>
+        <text color="16777215"><![CDATA[PhantomJS]]></text>
+      </p>
+    </object>
+    <object id="34" type="button" x="3015.4567389761905" y="-14991.053170894496" r="0" s="5.8471511374922605" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1194.871794871795</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="20" type="text" x="830.8356286985995" y="-16240.124486932858" r="0" s="8.615642121307154" class="head">
+      <height>30.996000000000002</height>
+      <width>-89.76</width>
+      <p>
+        <text color="16777215"><![CDATA[CasperJS]]></text>
+      </p>
+    </object>
+    <object id="26" type="text" x="27364.126652122064" y="10602.200670960974" r="0" s="52.06628101650757" class="head">
+      <height>30.996000000000002</height>
+      <width>-116.616</width>
+      <p>
+        <text color="16777215"><![CDATA[Thank You!]]></text>
+      </p>
+    </object>
+    <object id="0_187800558" type="text" x="-31723.923004106608" y="-15851.625284288506" r="0" s="2.586625161210529" class="body">
+      <height>185.97600000000003</height>
+      <width>552</width>
+      <p>
+        <text color="16777215"><![CDATA[Regular browser only stripped away of its GUI (Graphical User Interface). All other parts like the networking component, the JavaScript interpreter, the rendering and layout engines, still being present and helping it work just like any other browser when surfing the Web.]]></text>
+      </p>
+    </object>
+    <object id="1_187800558" type="text" x="-19354.88975460248" y="-10785.328690771374" r="0" s="11.121371441323339" class="body">
+      <height>30.996000000000002</height>
+      <width>-160.99200000000002</width>
+      <p>
+        <text color="16777215"><![CDATA[HTMlUnitDriver]]></text>
+      </p>
+    </object>
+    <object id="4_187800558" type="text" x="-15373.422105531181" y="-10753.558913881241" r="0" s="7.943836743802385" class="body">
+      <height>61.992000000000004</height>
+      <width>552</width>
+      <p>
+        <text color="16777215"><![CDATA[most light weight and fastest implementation headless browser for of WebDriver.]]></text>
+      </p>
+    </object>
+    <object id="5_187800558" type="text" x="-16292.9" y="-9569.229469528937" r="0" s="7.943836743802385" class="body">
+      <height>154.98000000000002</height>
+      <width>910.75</width>
+      <p>
+        <text color="16777215"><![CDATA[Benefits of HTML Unit Driver: ]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Since it is not using any GUI to test, your tests will run in background without any ]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[  visual interruption.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Compared to all other instances execution is faster.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. To run your tests through HTML Unit driver you can also select other browser versions.]]></text>
+      </p>
+    </object>
+    <object id="8_187800558" type="text" x="-3898.199592723568" y="-20278.28083197267" r="0" s="9.839652153351295" class="body">
+      <height>92.988</height>
+      <width>916.35</width>
+      <p>
+        <text color="16777215"><![CDATA[PhantomJS is a headless browser with JavaScript API. It is an optimal solution for Headless Website Testing, access and manipulate web pages & comes with the standard DOM API.]]></text>
+      </p>
+    </object>
+    <object id="9_187800558" type="text" x="-4007.8256172770925" y="-18552.79943036098" r="0" s="9.839652153351295" class="body">
+      <height>216.97200000000004</height>
+      <width>744.2</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[Benefits of PhantomJS:]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Avoid additional overhaul with real browser.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Screen Capture.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Network Monitoring.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="2_187800558" type="text" x="-15857.411038495417" y="-7961.557746841131" r="0" s="7.943836743802385" class="body">
+      <height>61.992000000000004</height>
+      <width>667.3</width>
+      <p>
+        <text color="16777215"><![CDATA[Limitations: It cannot emulate other browsers JavaScript behavior.]]></text>
+      </p>
+    </object>
+    <object id="6_187800558" type="image" x="-16682.146260791786" y="-12749.926070748004" r="0" s="5.393456751395863">
+      <source w="698" h="400">4294568426<url>4294568426.png</url></source>
+      <sourceUrl>tugofwar.png</sourceUrl>
+    <resource><id>4294568426</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/b/6eb4c29bf0b37d71127035ae5151b1abf8b88.png</url></resource></object>
+    <object id="10_187800558" type="text" x="2860.1193529904726" y="-15768.649592721336" r="0" s="6.154030086647968" class="body">
+      <height>61.992000000000004</height>
+      <width>785.1</width>
+      <p>
+        <text color="16777215"><![CDATA[CasperJS is an open source navigation scripting & testing utility written in JavaScript for the PhantomJS WebKit headless browser and SlimerJS (Gecko).]]></text>
+      </p>
+    </object>
+    <object id="11_187800558" type="text" x="2879.3500000000004" y="-14946.31780906149" r="0" s="4.395735776177119" class="body">
+      <height>92.988</height>
+      <width>1107.9</width>
+      <p>
+        <text color="16777215"><![CDATA[Benifits of CasperJS:]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Casper eases the process of defining a full navigation scenario and provides useful high-level functions, ]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[  methods & syntactic sugar for doing common tasks. ]]></text>
+      </p>
+    </object>
+    <object id="12_187800558" type="text" x="2773.4648612329775" y="-14157.956946997" r="0" s="4.395735776177118" class="body">
+      <height>92.988</height>
+      <width>775.45</width>
+      <p>
+        <text color="16777215"><![CDATA[Limitation:]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Doesn't handle more than 50 steps.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[. Not much traction in the community for resolving pending issues.]]></text>
+      </p>
+    </object>
+    <object id="3_187800558" type="text" x="18408.149999999998" y="-8154.049999999999" r="0" s="63.91476001048717" class="body">
+      <height>30.996000000000002</height>
+      <width>-60.239999999999995</width>
+      <p>
+        <text color="16777215"><![CDATA[Demo]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="103.05190222600882" fadescale="0.021348465700080515">
+      <object id="background_063011-31.jpg" type="image" x="-2049.1350497999965" y="3386.036747534051" r="0" s="162.19497763034133">
+        <source w="1920" h="1080">523870377<url>523870377.jpg</url></source>
+        <sourceUrl>063011-31.jpg</sourceUrl>
+      <resource><id>523870377</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/b/c/ad86068e2715c62e21bc41fce70a658db1592.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="27"/>
+    </s>
+    <s>
+      <eagle o="28"/>
+    </s>
+    <s>
+      <eagle o="29"/>
+    </s>
+    <s>
+      <eagle o="30"/>
+    </s>
+    <s>
+      <eagle o="31"/>
+    </s>
+    <s>
+      <eagle o="32"/>
+    </s>
+    <s>
+      <eagle o="33"/>
+    </s>
+    <s>
+      <eagle o="34"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="40"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('PTSans-B.swf');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('PTSans-B.swf');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('PTSans-BI.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: PTSans;
+}
+
+@font-face
+{
+	src: url('PTSans-I.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PTSans;
+}
+
+.line1
+{
+	color: #efefef;
+	gradEndColor: #efefef;
+	gradStartColor: #efefef;
+}
+
+.line2
+{
+	color: #7a8082;
+	gradEndColor: #7a8082;
+	gradStartColor: #7a8082;
+}
+
+.line3
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line4
+{
+	color: #318bff;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+.line5
+{
+	color: #194a99;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+}
+
+.poly1
+{
+	borderColor: #efefef;
+	borderThickness: 0;
+	gradEndColor: #efefef;
+	gradStartColor: #efefef;
+}
+
+.poly2
+{
+	borderColor: #7a8082;
+	borderThickness: 0;
+	gradEndColor: #7a8082;
+	gradStartColor: #7a8082;
+}
+
+.poly3
+{
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+.poly4
+{
+	borderColor: #194a99;
+	borderThickness: 0;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+}
+
+.poly5
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderColor: #7f7f7f;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZFrame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+	thickness: 7;
+}
+
+ZFrame.circle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #97f1ff;
+	borderThickness: 0;
+	gradEndAlpha: 0.2;
+	gradEndColor: #318bff;
+	gradStartAlpha: 0.5;
+	gradStartColor: #318bff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.strong
+{
+	color: #194a99;
+	fontFamily: strong;
+}
+
+ZLine
+{
+	color: #333;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #00e1ff;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.9;
+	gradStartAlpha: 0.8;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-3f4766cc</hash>
+<sync><oid>v3ugfluis7az</oid><title>copy-of-blue-circles-free-prezi-template</title><hash>-3f4766cc</hash></sync><config>RAiNHSmnhiOXPAZFBL2AtsmVUhe1UJMlSlxufmUUTbEXKZc98iIit1sl+fatbJ+eu4chuCpbOermpvWz25qxbHd1JSL+T7Oz0xxrbqZCrjHWRhXjAhIdHos1g+0GWBaB7b87E97ptsbLAssPQweBf1YlSlWVx2ucmd2AWe4Id1IVqvpUQs2SNk1lY2sNYLpHPXKZIm68L9aAGrqjuH5/baovKo8RNQYCRVyL/C91rzMqoE9Js02EHRMDtQqKeAx7/9k6IQoWTTbHvQ0QC9hgIjEKAzn2xX4cSxy8+fny0DsbMbfun3mb9y6xEzOTduxcv1cdbKfo7zTDAc8Obz3zdA==</config></zuiprezi>
